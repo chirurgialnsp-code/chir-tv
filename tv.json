@@ -1,14 +1,12 @@
 [
   {
     "title": "Chirurgia LNsP - Tapeta 1",
-    "url": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv1.jpg",
     "url_1080p": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv1.jpg",
     "url_4k": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv1.jpg"
   },
   {
     "title": "Chirurgia LNsP - Tapeta 2",
-    "url": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv2.jpg",
-    "url_1080p": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv2.jpg",
+     "url_1080p": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv2.jpg",
     "url_4k": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv2.jpg"
   }
 ]
