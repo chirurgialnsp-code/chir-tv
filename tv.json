@@ -1,12 +1,33 @@
 [
   {
-    "title": "Chirurgia LNsP - Tapeta 1",
+    "title": "finalTvZ (JPG)",
+    "url": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/finalTvZ.jpg",
+    "url_1080p": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/finalTvZ.jpg",
+    "url_4k": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/finalTvZ.jpg"
+  },
+  {
+    "title": "finaltvL (JPG)",
+    "url": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/finaltvL.jpg",
+    "url_1080p": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/finaltvL.jpg",
+    "url_4k": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/finaltvL.jpg"
+  },
+  {
+    "title": "tv1 (JPG)",
+    "url": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv1.jpg",
     "url_1080p": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv1.jpg",
     "url_4k": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv1.jpg"
   },
   {
-    "title": "Chirurgia LNsP - Tapeta 2",
-     "url_1080p": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv2.jpg",
+    "title": "tv2 (JPG)",
+    "url": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv2.jpg",
+    "url_1080p": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv2.jpg",
     "url_4k": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv2.jpg"
+  },
+  {
+    "title": "tv3uni (PNG)",
+    "url": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv3uni.png",
+    "url_1080p": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv3uni.png",
+    "url_4k": "https://raw.githubusercontent.com/chirurgialnsp-code/chir-tv/main/tv3uni.png"
   }
 ]
+
